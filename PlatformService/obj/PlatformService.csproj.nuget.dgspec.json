@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\burak\\Desktop\\microserviceWnet5\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Users\\burak\\Desktop\\Microservices-Net5\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\burak\\Desktop\\microserviceWnet5\\PlatformService\\PlatformService.csproj": {
+    "C:\\Users\\burak\\Desktop\\Microservices-Net5\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\burak\\Desktop\\microserviceWnet5\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Users\\burak\\Desktop\\Microservices-Net5\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Users\\burak\\Desktop\\microserviceWnet5\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Users\\burak\\Desktop\\Microservices-Net5\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\burak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\burak\\Desktop\\microserviceWnet5\\PlatformService\\obj\\",
+        "outputPath": "C:\\Users\\burak\\Desktop\\Microservices-Net5\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
