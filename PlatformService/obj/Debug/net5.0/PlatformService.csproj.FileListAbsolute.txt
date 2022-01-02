@@ -128,3 +128,10 @@ C:\Users\burak\Desktop\Microservices-Net5\PlatformService\obj\Debug\net5.0\Platf
 C:\Users\burak\Desktop\Microservices-Net5\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
 C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\appsettings.Production.json
 C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\burak\Desktop\Microservices-Net5\PlatformService\bin\Debug\net5.0\Grpc.Net.Common.dll
