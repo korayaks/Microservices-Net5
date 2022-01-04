@@ -6,6 +6,7 @@ You must use yaml files in the K8S folder.
 For deploying pods and services to the Kubernetes, you can use apply command.
 ```
 kubectl apply -f <filename.yaml>
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.1.0/deploy/static/provider/aws/deploy.yaml
 ```
 After apply the all yaml files you will able to use services. You can check the Docker Desktop and see the pods and containers.
 
