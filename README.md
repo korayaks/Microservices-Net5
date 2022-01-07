@@ -10,4 +10,4 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/cont
 ```
 After apply the all yaml files you will able to use services. You can check the Docker Desktop and see the pods and containers.
 
-If all pods and containers are running currectly you can try to test services with programs like Postman or Insomnia with "http://acme.com/api/..." url.
+If all pods and containers are work currectly, you can try to use services with programs like Postman or Insomnia.
