@@ -1,6 +1,9 @@
 # Microservices-Net5
 .NET Microservice project which include two microservices using REST API pattern. Created synchronous (HTTP &amp; gRPC) and asynchronous (RabbitMQ) messaging between services using a Event Bus. Services have been deployed to the Kubernetes cluster.
 
+## Architecture
+![microservices_net5](https://user-images.githubusercontent.com/60652185/150120639-6a86cfe2-9da7-47b2-973f-1e05b22ffb88.png)
+
 ## Usage
 You must use yaml files in the K8S folder. 
 For deploying pods and services to the Kubernetes, you can use apply command.
